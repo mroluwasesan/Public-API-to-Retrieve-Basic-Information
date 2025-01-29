@@ -77,7 +77,7 @@ curl https://your-deployed-url.xyz/
 ---
 
 ## 🔗 Backlinks
-- **HNG Python Developers Hiring**: [Hire Python Developers](https://hng.tech/hire/python-developers)
+- **To further explore career opportunities in DevOps and related fields, check out the following links**: [Hire Python Developers](https://hng.tech/hire/python-developers)
 
 ---
 
